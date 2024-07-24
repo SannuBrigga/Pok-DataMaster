@@ -1,0 +1,10 @@
+"id_pokemon","nombre","tipo","habilidad","estadisticas","id_entrenador"
+1,"Pikachu","Eléctrico","Electricidad Estática","{""hp"": 35, ""ataque"": 55, ""defensa"": 40}",1
+2,"Squirtle","Agua","Torrente","{""hp"": 44, ""ataque"": 48, ""defensa"": 65}",2
+3,"Bulbasaur","Planta","Clorofila","{""hp"": 45, ""ataque"": 49, ""defensa"": 49}",3
+4,"Charmander","Fuego","Mar Llamas","{""hp"": 39, ""ataque"": 52, ""defensa"": 43}",1
+5,"Meowth","Normal","Recogida","{""hp"": 40, ""ataque"": 45, ""defensa"": 35}",5
+7,"Psyduck","Agua","Nado Rápido","{""hp"": 50, ""ataque"": 52, ""defensa"": 48}",2
+8,"Geodude","Roca","Cabeza Roca","{""hp"": 40, ""ataque"": 80, ""defensa"": 100}",3
+9,"Eevee","Normal","Fuga","{""hp"": 55, ""ataque"": 55, ""defensa"": 50}",1
+10,"Pidgeotto","Volador","Vista Lince","{""hp"": 63, ""ataque"": 60, ""defensa"": 55}",7
